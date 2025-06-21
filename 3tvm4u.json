@@ -5,6 +5,14 @@
     "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/5567.m3u8"
   },
   {
+    "title": "DE| SAT 1",
+    "thumbnail": "https://lo1.in/ger/satt1.png",
+    "link(FHD)": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164258.m3u8",
+    "link(HD)": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164401.m3u8",
+    "link(SD)": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/62801.m3u8",
+    "link(HEVC)": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164114.m3u8"
+  },
+  {
     "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR] NITRO",
     "thumbnail": "https://lo1.in/ger/nitro.png",
     "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164255.m3u8",
