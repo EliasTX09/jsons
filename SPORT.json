@@ -1,5 +1,20 @@
 [
   {
+    "id": "Das.Ertse.de",
+    "title": "Lupin",
+    "thumbnail": "https://lo1.in/ger/dsr1.png",
+    "link(1)": "https://cdn-5oon8upkzi1zeghh.edgeon-bandwidth.com/engine/hls2-c/01/09650/dkanppj95dlu_,n,.urlset/master.m3u8?t=8rt8VyBwVB9EPvSNhe1zmYOMYNm47UTioORThLaBq0o&s=1761505426&e=14400&f=62576575&node=UE+o0WDa3qTWeqtOxlFvBP4frcF2IYaZWwRNVXKJjEY=&i=93.226&sp=2500&asn=3320&q=n&rq=RhXiuuMW9VRFhKgO4pvuxnjT5DU8myUnhxrCRgPg",
+    "name(1)": "s2 f3", 
+    "link(2)": "https://cdn-e1vz5ftuxwadx9vo.edgeon-bandwidth.com/engine/hls2-c/01/09651/sdpndnsggpzl_,n,.urlset/master.m3u8?t=qTZeMwYxIu_IyXMBHhVj3kA8n47ktAOElw508gO_-Ho&s=1761509938&e=14400&f=48257800&node=lG4fhWy3Ya/s7A605bVApxePNEeWFQr0aMRR+cKCkdI=&i=93.226&sp=2500&asn=3320&q=n&rq=RhXiuuMW9VRFhKgO4pvuxnjT5DU8myUnhxrCRgPg",
+    "name(2)": "s2 f4",  
+    "link(3)": "https://cdn-p9lhu0gpfbstok3j.edgeon-bandwidth.com/engine/hls2-c/01/09650/3sl5u7m2xgpp_,n,.urlset/master.m3u8?t=pz9NcxDv23IUjQ_Cb2CAXFM-26gjc5VyxnJ-7bzl0o0&s=1761509961&e=14400&f=48253871&node=bAtMdGZGqUDwL5VVe4d0gdh3Sp+fJM1VA67mUn2vrz0=&i=93.226&sp=2500&asn=3320&q=n&rq=RhXiuuMW9VRFhKgO4pvuxnjT5DU8myUnhxrCRgPg",
+    "name(3)": "s2 f5",  
+    "link(4)": "https://cdn-htb8wsxdun7slw1n.edgeon-bandwidth.com/engine/hls2/01/09650/rkxe80jdnrxc_,n,.urlset/master.m3u8?t=GYXiFF0tI_EcNGjQPBmjjsFV64PKPnnp7VqJyvUaADM&s=1761509978&e=14400&f=48253712&node=ZzfLmMuquiRWgkfQZ6VrF20WqiyQWNLpMpL/QD3nrtg=&i=93.226&sp=2500&asn=3320&q=n&rq=RhXiuuMW9VRFhKgO4pvuxnjT5DU8myUnhxrCRgPg",
+    "name(4)": "s2 f6",  
+    "link(5)": "https://cdn-vnwyrra6orj9w2ru.edgeon-bandwidth.com/engine/hls2/01/09650/0wt9oml5hwe5_,n,.urlset/master.m3u8?t=zLZKhZHEQ8GzG8LnH0MyO_KQ_-yx0CAeptnr1UoH9yc&s=1761510002&e=14400&f=48253629&node=D+YdX0e8G2n521fbYysLa0UJ8PBrLuBp8BmJr/PLUYE=&i=93.226&sp=2500&asn=3320&q=n&rq=RhXiuuMW9VRFhKgO4pvuxnjT5DU8myUnhxrCRgPg",
+    "name(5)": "s2 f7"
+  },
+  {
     "id": "Das.Erste.de",
     "title": "Das Erste",
     "thumbnail": "https://lo1.in/ger/dsr1.png",
@@ -664,3 +679,4 @@
     "thumbnail": "https://lo1.in/ger/skyspau.png"
   }
 ]
+
